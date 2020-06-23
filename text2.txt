@@ -1,1 +1,2 @@
 This a test file for git course
+I make some changes
